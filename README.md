@@ -1,3 +1,3 @@
 # fcodecamp_projs
 untitled is for catapp
-and index and styles.css are for caffee menu
+then index and styles.css are for caffee menu
